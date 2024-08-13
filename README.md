@@ -1,4 +1,5 @@
-<h1 align="center">![GitHub Profile README Header Image Generator - you shouldn't be seeing this text](https://raw.githubusercontent.com/cguerrerod-mm/cguerrerod-mm/main/header.png)</h1>
+![GitHub Profile README Header Image Generator - you shouldn't be seeing this text](https://raw.githubusercontent.com/cguerrerod-mm/cguerrerod-mm/main/header.png)
+
 <h3 align="center">I am a highly skilled biomedical scientist and bioinformatician with a robust background in cancer translational research</h3>
 
 <p align="left"> <a href="https://twitter.com/camilagdeblois" target="blank"><img src="https://img.shields.io/twitter/follow/camilagdeblois?logo=twitter&style=for-the-badge" alt="camilagdeblois" /></a> </p>
