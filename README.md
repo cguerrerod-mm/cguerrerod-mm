@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **AI Python for beginners with Andrew Ng!**
 
-- 👨‍💻 All of my projects are available at [https://cguerrerod-mm.github.io](https://cguerrerod-mm.github.io)
+- 👨‍💻 All of my projects will be available soon at [https://cguerrerod-mm.github.io](https://cguerrerod-mm.github.io) (UNDER CONSTRUCTION)
 
 - 💬 Ask me about **Genomics, clinical research, machine learning, and science in general!**
 
 - 📫 How to reach me **camilaguerrero97@gmail.com**
 
-- ⚡ Fun fact **I am a CrossFit athlete!**
+- ⚡ Fun fact **I am a CrossFit athlete! and I love cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
